@@ -20,7 +20,7 @@
 					<div class="row">
 						<div class="col-7 col-12-medium">
 							<h2>Hi. This is Verti.</h2>
-							<i class="fas fa-thermometer-three-quarters"></i>
+							<i class="fas fa-thermometer-three-quarters fa-3x"></i>
 							<p>It's a free responsive site template by HTML5 UP</p>
 						</div>
 						<div class="col-5 col-12-medium">
