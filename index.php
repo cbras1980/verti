@@ -20,7 +20,6 @@
 					<div class="row">
 						<div class="col-7 col-12-medium">
 							<h2><i class="fas fa-thermometer-three-quarters"></i>&nbsp;23.3&#176;C</h2>
-							<p>It's a free responsive site template by HTML5 UP</p>
 						</div>
 						<div class="col-5 col-12-medium">
 							<ul>
@@ -40,7 +39,9 @@
 
 								<!-- Box -->
 									<section class="box feature">
-										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+										<div class="col-7 col-12-medium">
+											<h2><i class="fas fa-thermometer-three-quarters"></i>&nbsp;23.3&#176;C</h2>
+										</div>
 										<div class="inner">
 											<header>
 												<h2><?php echo("Testing PHP is working..."); ?></h2>
