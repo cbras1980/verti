@@ -26,7 +26,7 @@
 										<div class="inner">
 											<header>
 												<h2><?php echo("Testing PHP is working..."); ?></h2>
-												<p>Maybe here as well I think</p>
+												<p>Maybe  jhgjh here as well I think</p>
 											</header>
 											<p>Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.</p>
 										</div>
@@ -70,7 +70,7 @@
 										<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 										<div class="inner">
 											<header>
-												<h2>Oh, and finally ...</h2>
+												<h2>Just making a change and testing...</h2>
 												<p>Here's another intriguing subtitle</p>
 											</header>
 											<p>Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.</p>
