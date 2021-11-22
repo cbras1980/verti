@@ -39,7 +39,9 @@
 
 								<!-- Box -->
 									<section class="box feature">
-										<h1><i class="fas fa-home fa-5x"></i></h1>
+										<div class="inner">
+										  <h1><i class="fas fa-home fa-5x"></i></h1>
+										</div>
 										<div class="inner">
 											<header>
 												<h2><i class="fas fa-thermometer-three-quarters"></i>&nbsp;23.3&#176;C</h2>
