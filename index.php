@@ -20,7 +20,8 @@
 					<div class="row">
 						<div class="col-7 col-12-medium">
 							<h2>Hi. This is Verti.</h2>
-							<p class="large icon solid fa-temperature-half">It's a free responsive site template by HTML5 UP</p>
+							<i class="fa fa-user icon"></i>
+							<p>It's a free responsive site template by HTML5 UP</p>
 						</div>
 						<div class="col-5 col-12-medium">
 							<ul>
