@@ -19,7 +19,7 @@
 				<div id="banner" class="box container">
 					<div class="row">
 						<div class="col-7 col-12-medium">
-							<h2><i class="fas fa-thermometer-three-quarters fa-3x">&nbsp;23.3&#176;C</i></h2>
+							<h2><i class="fas fa-thermometer-three-quarters fa-3x"></i>>&nbsp;23.3&#176;C</h2>
 							<p>It's a free responsive site template by HTML5 UP</p>
 						</div>
 						<div class="col-5 col-12-medium">
