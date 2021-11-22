@@ -39,12 +39,9 @@
 
 								<!-- Box -->
 									<section class="box feature">
-										<header>
-											<h2><i class="fas fa-thermometer-three-quarters"></i>&nbsp;23.3&#176;C</h2>
-										</header>
 										<div class="inner">
 											<header>
-												<h2><?php echo("Testing PHP is working..."); ?></h2>
+												<h2><i class="fas fa-thermometer-three-quarters"></i>&nbsp;23.3&#176;C</h2>
 												<p>Maybe  jhgjh here as well I think</p>
 											</header>
 											<p>Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.</p>
